@@ -77,7 +77,7 @@ const AboutContent = (props) => {
               <RandomeColor content="About Me" />
             </h2>
             <div>
-              <AnimatedText text={truncateContent(aboutContent, props.length)} tags="paragraph" />
+             <AnimatedText text={truncateContent(aboutContent, props.length)} tags="paragraph" />
             </div>
             {pathname === "/about" ? null : (
               <Link className={style.readMore} href="/about">

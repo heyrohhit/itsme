@@ -1,7 +1,6 @@
 "use client"
 import React from 'react'
 import style from './animated.module.css'
-import { motion } from 'framer-motion'
 
 
 
@@ -15,7 +14,7 @@ const AnimatedText = (props) => {
     <div className={style.containers}>
         <span className={`${style[tags]}`}>
     {animatedText.map((letter, index) => (
-                  <motion.span
+                  <span
                     key={index}
                     className={style.motionWord}
                     initial={{ opacity: 0, y:-20}}
@@ -24,7 +23,7 @@ const AnimatedText = (props) => {
                     transition={{ delay: index * 0.1, duration: 0.3 }}
                   >
                     {(letter === ' ')?<span>&nbsp;</span>:letter}
-                  </motion.span>
+                  </span>
                 ))}
                 </span>
     </div>
