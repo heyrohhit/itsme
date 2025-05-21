@@ -31,7 +31,7 @@ const ContactPage = () => {
           </div>
 
           <div className={style.socialLinks}>
-            <a href="https://github.com/Singh8700" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/rk960" target="_blank" rel="noopener noreferrer">
               <FaGithub />
             </a>
             <a href="https://bit.ly/rohit-port" target="_blank" rel="noopener noreferrer">

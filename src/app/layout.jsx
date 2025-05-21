@@ -20,7 +20,7 @@ export const metadata = {
   keywords: "Rohit, know Rohit, who is Rohit, Singh87_Singh, Rohit's portfolio, web developer",
   author: "Rohit Singh",
   robots: "index, follow",
-  canonical: "https://singh8700.github.io/itsme",
+  canonical: "https://rk960.github.io/itsme",
 
   // Google Search Console Verification
   googleSiteVerification: "7-0CsP-a--qYOgotHrh_RWoQNI2fiVvugVg2wlmVzHI",
@@ -28,8 +28,8 @@ export const metadata = {
   // Open Graph (For Facebook, Instagram, LinkedIn)
   ogTitle: "Rohit | It's Me, Friend - You Know Who I Am!",
   ogDescription: "Discover the real Rohit. Are you ready to know the truth?",
-  ogImage: "https://singh8700.github.io/itsme/assets/profile.jpg", // Update with your actual image path
-  ogUrl: "https://singh8700.github.io/itsme",
+  ogImage: "https://rk960.github.io/itsme/assets/profile.jpg", // Update with your actual image path
+  ogUrl: "https://rk960.github.io/itsme",
   ogType: "website",
 
   // Instagram Meta Tags (Uses Open Graph)
@@ -38,7 +38,7 @@ export const metadata = {
   // Twitter (Even if you don't have an account, it's good for sharing previews)
   twitterTitle: "Rohit | It's Me, Friend - Can You Guess?",
   twitterDescription: "You think you know Rohit? Find out the truth!",
-  twitterImage: "https://singh8700.github.io/itsme/assets/profile.jpg",
+  twitterImage: "https://rk960.github.io/itsme/assets/profile.jpg",
   twitterCard: "summary_large_image",
 };
 

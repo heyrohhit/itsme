@@ -15,7 +15,7 @@ const Footer = () => {
           <h3><RandomeColor content="Portfolio"/></h3>
           <p>Building digital experiences with passion and precision.</p>
           <div className={style.socialLinks}>
-            <a href="https://github.com/Singh8700" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/rk960" target="_blank" rel="noopener noreferrer">
               <FaGithub />
             </a>
             <a href="https://bit.ly/rohit-port" target="_blank" rel="noopener noreferrer">
@@ -75,7 +75,7 @@ const Footer = () => {
           <p>
             Made with <FaHeart className={style.heart} /> and <FaCode className={style.code} /> 
             <br />
-            © {currentYear} rohit.singh8700. All rights reserved.
+            © {currentYear} rohit.rk960. All rights reserved.
           </p>
         </div>
       </div>

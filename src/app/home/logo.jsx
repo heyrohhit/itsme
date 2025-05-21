@@ -29,7 +29,7 @@ const LogoSection = () => {
     <div className={`${style.LogoContainer} ${scrolled ? style.scroll : ""}`}>
       <div className={style.logo}>
         <h3 className={style.text}>
-          Hey Friend's!
+          Rohit@Kumar
         </h3>
       </div>
       <div className={style.subtitle}>Welcome to my portfolio</div>

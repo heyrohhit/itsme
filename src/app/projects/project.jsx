@@ -26,7 +26,7 @@ const Qualification = () => {
             institution: "Post App",
             description: "To learn full-stack development with Node.js, Express, and MongoDB.",
             grade: "Jan 2025",
-            live: "https://singh8700.github.io/postapp/",
+            live: "https://rk960.github.io/postapp/",
             models: "./imgs/pic01.png"
         },
         {
@@ -53,7 +53,7 @@ const Qualification = () => {
             institution: "Dice Game",
             description: "Predict dice rolls to earn points. 5 chances, correct gives +5, wrong gives -1 points.",
             grade: "Sep 2023",
-            live: "https://singh8700.github.io/DiecsGame/"
+            live: "https://rk960.github.io/DiecsGame/"
         },
         {
             year: "Image Search App",
@@ -61,7 +61,7 @@ const Qualification = () => {
             institution: " Images Search Web App",
             description: "Search and download live images with ease in this simple web app.",
             grade: "Jul 2023",
-            live:"https://singh8700.github.io/imgsearch/"
+            live:"https://rk960.github.io/imgsearch/"
         },
         {
             year: "Weather App",
@@ -69,7 +69,7 @@ const Qualification = () => {
             institution: "Weather App",
             description: "To practice fetching data from APIs and working with React.js.",
             grade: "Jun 2023",
-            live:"https://singh8700.github.io/weatherApps/"
+            live:"https://rk960.github.io/weatherApps/"
         },
         {
             year: "Simple Note Management App",
@@ -77,7 +77,7 @@ const Qualification = () => {
             institution: "Notes App",
             description: "To provide an easy, fast, and organized way to manage notes efficiently.",
             grade: "May 2023",
-            live:"https://singh8700.github.io/userListProject/"
+            live:"https://rk960.github.io/userListProject/"
         },
         {
             year: "Cards Effects On Mouse",
@@ -85,7 +85,7 @@ const Qualification = () => {
             institution: "Cards Effects On Mouse",
             description: "To practice CSS animations and JavaScript event handling for dynamic UI interactions.",
             grade: "Sep 2022",
-            live:"https://singh8700.github.io/CardsEffects-/"
+            live:"https://rk960.github.io/CardsEffects-/"
         }
     ]
 
